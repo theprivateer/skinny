@@ -1,6 +1,6 @@
 {
     "name": "privateer/skinny",
-    "description": "A simple bootstrapped structure for Slim applicationys",
+    "description": "A simple bootstrapped structure for Slim applications",
     "keywords": ["framework", "slim", "php"],
     "license": "MIT",
     "type": "project",
